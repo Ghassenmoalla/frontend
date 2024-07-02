@@ -1,5 +1,5 @@
 {
-  "API_BASE_URL": "",
+  "API_BASE_URL": "https://dependency-tracker-api.nicepebble-63fc5f2f.westeurope.azurecontainerapps.io/",
   "API_WITH_CREDENTIALS": "",
   "OIDC_CLIENT_ID": "",
   "OIDC_FLOW": "code",
